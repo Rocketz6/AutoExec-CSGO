@@ -1,6 +1,7 @@
 # AutoExec optimisé pour CSGO
 
-Un autoexec permet de changer les différents paramètres du jeu via un fichier modifiable. (autoexec appartenant à [ArmynC](https://github.com/ArmynC/ArminC-AutoExec))
+Un autoexec permet de changer les différents paramètres du jeu via un fichier modifiable.
+J'ai modifié quelques touches de son autoexec, le mérite bien à lui bien évidement. (autoexec appartenant à [ArmynC](https://github.com/ArmynC/ArminC-AutoExec))
 
 <table>
 <tr>
